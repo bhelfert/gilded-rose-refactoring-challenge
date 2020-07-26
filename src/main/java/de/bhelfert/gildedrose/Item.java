@@ -1,4 +1,4 @@
-package com.sevenlist.gildedrose;
+package de.bhelfert.gildedrose;
 
 public class Item {
 
